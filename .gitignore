@@ -3,6 +3,18 @@ venv/
 .env/
 .envrc
 
+# draft folders
+draft/
+
+# Wrds data
+data/wrds/
+
+# Get Shit Done
+.planning/
+
+# Claude
+.claude/
+.CLAUDE.md
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
