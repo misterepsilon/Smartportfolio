@@ -1,0 +1,11 @@
+2026-04-26 01:53:57 [MainThread] INFO    === HF prices pull starting | years=[2021, 2022, 2023, 2024, 2025] | universe=614 | workers=5 ===
+2026-04-26 01:53:58 [ThreadPoolExecutor-0_3] INFO    year 2024: starting 252 days
+2026-04-26 01:53:59 [ThreadPoolExecutor-0_0] INFO    year 2021: starting 252 days
+2026-04-26 01:53:59 [ThreadPoolExecutor-0_4] INFO    year 2025: starting 250 days
+2026-04-26 01:53:59 [ThreadPoolExecutor-0_1] INFO    year 2022: starting 251 days
+2026-04-26 01:53:59 [ThreadPoolExecutor-0_2] INFO    year 2023: starting 250 days
+2026-04-26 01:56:50 [ThreadPoolExecutor-0_4] DEBUG   year 2025 day 20250102: 203,320 rows in 171.8s
+2026-04-26 01:56:51 [ThreadPoolExecutor-0_3] DEBUG   year 2024 day 20240102: 203,711 rows in 172.6s
+2026-04-26 01:56:51 [ThreadPoolExecutor-0_1] DEBUG   year 2022 day 20220103: 205,275 rows in 172.4s
+2026-04-26 01:56:51 [ThreadPoolExecutor-0_2] DEBUG   year 2023 day 20230103: 203,711 rows in 172.1s
+2026-04-26 01:56:52 [ThreadPoolExecutor-0_0] DEBUG   year 2021 day 20210104: 208,012 rows in 173.2s

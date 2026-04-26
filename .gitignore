@@ -9,6 +9,9 @@ draft/
 # Wrds data
 data/wrds/
 
+# Legacy folders
+*legacy/
+
 # Get Shit Done
 .planning/
 
