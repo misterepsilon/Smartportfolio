@@ -17,7 +17,7 @@ data/wrds/
 
 # Claude
 .claude/
-.CLAUDE.md
+CLAUDE.md
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -145,3 +145,4 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 .streamlit/config.toml
+.DS_Store
