@@ -1,0 +1,76 @@
+{
+  "started_at": "1969-12-31T21:30:54.132099",
+  "finished_at": "2026-04-28T10:58:01.036448",
+  "wall_time_sec": 41108.5,
+  "wall_time_min": 685.1,
+  "config": {
+    "first_date": "2021-01-01",
+    "last_date": "2025-12-31",
+    "universe_n": 1107,
+    "years": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "max_workers": 5
+  },
+  "years": [
+    {
+      "year": 2021,
+      "status": "ok",
+      "path": "..\\data\\wrds\\high_freq_prices\\hf_prices_2021.csv.gz",
+      "rows": 68379253,
+      "days": 252,
+      "t_sql_s": 25543.36655990002,
+      "t_py_s": 14923.678834100045,
+      "elapsed_s": 41093.2576421,
+      "error": null
+    },
+    {
+      "year": 2022,
+      "status": "ok",
+      "path": "..\\data\\wrds\\high_freq_prices\\hf_prices_2022.csv.gz",
+      "rows": 67637526,
+      "days": 251,
+      "t_sql_s": 29927.516156599988,
+      "t_py_s": 10516.060875500043,
+      "elapsed_s": 40991.961334299995,
+      "error": null
+    },
+    {
+      "year": 2023,
+      "status": "ok",
+      "path": "..\\data\\wrds\\high_freq_prices\\hf_prices_2023.csv.gz",
+      "rows": 66838713,
+      "days": 250,
+      "t_sql_s": 27801.64895349999,
+      "t_py_s": 12510.997712799986,
+      "elapsed_s": 40897.968458400006,
+      "error": null
+    },
+    {
+      "year": 2024,
+      "status": "ok",
+      "path": "..\\data\\wrds\\high_freq_prices\\hf_prices_2024.csv.gz",
+      "rows": 66957968,
+      "days": 252,
+      "t_sql_s": 30933.826748599997,
+      "t_py_s": 9590.607791500053,
+      "elapsed_s": 41106.7045983,
+      "error": null
+    },
+    {
+      "year": 2025,
+      "status": "ok",
+      "path": "..\\data\\wrds\\high_freq_prices\\hf_prices_2025.csv.gz",
+      "rows": 65620357,
+      "days": 250,
+      "t_sql_s": 35079.84747749999,
+      "t_py_s": 5520.390975299921,
+      "elapsed_s": 40992.384118500006,
+      "error": null
+    }
+  ]
+}
